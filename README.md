@@ -26,6 +26,8 @@ The app is styled using **Tailwind CSS** and fetches real-time data from the **C
 2. **Coin Detail**
    - Provides detailed data about a specific cryptocurrency, including historical price charts (rendered with Chart.js).
    - Presents price fluctuations over time with interactive charts.
+  
+### Deploy Link : https://crypto-update-2024-10-20.netlify.app
 
 ## Setup Instructions
 
