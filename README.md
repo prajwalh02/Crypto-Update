@@ -44,4 +44,13 @@ The app is styled using **Tailwind CSS** and fetches real-time data from the **C
 3. Install the dependencies:
    ```bash
    npm install
-   
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/ddab134f-bc76-474e-b1a8-cdd4f8285fbe)
+
+![image](https://github.com/user-attachments/assets/f700b128-93a7-4e0b-a6d3-0aa603b022f0)
+
+![image](https://github.com/user-attachments/assets/62a19c72-7804-48ee-89dd-cc9ab27d5476)
+
+
+
